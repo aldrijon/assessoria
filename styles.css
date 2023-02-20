@@ -367,6 +367,7 @@
 
     #about-location h3 {
         margin: 0;
+        font-size: 1.5em;
     }
 
     #about-location p {
@@ -404,18 +405,7 @@
         font-size: 1em;
     }
 
-    
-}
-@media (max-width:300px) {
-    #about-location h3 {
-        font-size: 1.5em;
-    }
-
-    #detail-1 h3 {
+    #detail-1 h3{
         font-size: 2em;
-    }
-
-    #cta  .btn {
-        font-size: .6em;
     }
 }
